@@ -6,7 +6,7 @@
   <!-- <a href="https://nextcrude.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Next Crude</h1>
+<h1 align="center">Next Crud</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/Allyson777/next-crude?color=56BEB8">
